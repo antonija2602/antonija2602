@@ -9,7 +9,8 @@ After a fulfilling career in banking, fate led me back to my true passion: techn
 
 For me, it's all about the joy of creation. That's why I've chosen to embark on the thrilling frontier of frontend development. There's nothing quite like the satisfaction of visually crafting interactive experiences. It's a journey filled with excitement and endless possibilities!
 
-:point_right: => [Antonija Zrno - Frontend developer Portfolio](https://antonijazrno.netlify.app)
+:point_right: => [Antonija Zrno - Frontend developer Portfolio Netlify](https://antonijazrno.netlify.app)
+:point_right: => [Antonija Zrno - Frontend developer Portfolio GitHub](https://antonija2602.github.io/antonija-zrno-frontend-portfolio/)
 
 
 ### Tech Stack
